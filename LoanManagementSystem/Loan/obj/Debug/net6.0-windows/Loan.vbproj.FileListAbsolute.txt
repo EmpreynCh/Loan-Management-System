@@ -1,0 +1,32 @@
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. (Loan Management System)\LoanManagementSystem\Loan\bin\Debug\net6.0-windows\Loan.exe
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. (Loan Management System)\LoanManagementSystem\Loan\bin\Debug\net6.0-windows\Loan.deps.json
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. (Loan Management System)\LoanManagementSystem\Loan\bin\Debug\net6.0-windows\Loan.runtimeconfig.json
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. (Loan Management System)\LoanManagementSystem\Loan\bin\Debug\net6.0-windows\Loan.dll
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. (Loan Management System)\LoanManagementSystem\Loan\bin\Debug\net6.0-windows\Loan.pdb
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. (Loan Management System)\LoanManagementSystem\Loan\obj\Debug\net6.0-windows\Loan.Form1.resources
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. (Loan Management System)\LoanManagementSystem\Loan\obj\Debug\net6.0-windows\Loan.vbproj.GenerateResource.cache
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. (Loan Management System)\LoanManagementSystem\Loan\obj\Debug\net6.0-windows\Loan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. (Loan Management System)\LoanManagementSystem\Loan\obj\Debug\net6.0-windows\Loan.AssemblyInfoInputs.cache
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. (Loan Management System)\LoanManagementSystem\Loan\obj\Debug\net6.0-windows\Loan.AssemblyInfo.vb
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. (Loan Management System)\LoanManagementSystem\Loan\obj\Debug\net6.0-windows\Loan.vbproj.CoreCompileInputs.cache
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. (Loan Management System)\LoanManagementSystem\Loan\obj\Debug\net6.0-windows\Loan.dll
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. (Loan Management System)\LoanManagementSystem\Loan\obj\Debug\net6.0-windows\refint\Loan.dll
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. (Loan Management System)\LoanManagementSystem\Loan\obj\Debug\net6.0-windows\Loan.pdb
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. (Loan Management System)\LoanManagementSystem\Loan\obj\Debug\net6.0-windows\Loan.genruntimeconfig.cache
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. (Loan Management System)\LoanManagementSystem\Loan\obj\Debug\net6.0-windows\ref\Loan.dll
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Loan-Management-System\LoanManagementSystem\Loan\bin\Debug\net6.0-windows\Loan.exe
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Loan-Management-System\LoanManagementSystem\Loan\bin\Debug\net6.0-windows\Loan.deps.json
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Loan-Management-System\LoanManagementSystem\Loan\bin\Debug\net6.0-windows\Loan.runtimeconfig.json
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Loan-Management-System\LoanManagementSystem\Loan\bin\Debug\net6.0-windows\Loan.dll
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Loan-Management-System\LoanManagementSystem\Loan\bin\Debug\net6.0-windows\Loan.pdb
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Loan-Management-System\LoanManagementSystem\Loan\obj\Debug\net6.0-windows\Loan.Form1.resources
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Loan-Management-System\LoanManagementSystem\Loan\obj\Debug\net6.0-windows\Loan.vbproj.GenerateResource.cache
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Loan-Management-System\LoanManagementSystem\Loan\obj\Debug\net6.0-windows\Loan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Loan-Management-System\LoanManagementSystem\Loan\obj\Debug\net6.0-windows\Loan.AssemblyInfoInputs.cache
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Loan-Management-System\LoanManagementSystem\Loan\obj\Debug\net6.0-windows\Loan.AssemblyInfo.vb
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Loan-Management-System\LoanManagementSystem\Loan\obj\Debug\net6.0-windows\Loan.vbproj.CoreCompileInputs.cache
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Loan-Management-System\LoanManagementSystem\Loan\obj\Debug\net6.0-windows\Loan.dll
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Loan-Management-System\LoanManagementSystem\Loan\obj\Debug\net6.0-windows\refint\Loan.dll
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Loan-Management-System\LoanManagementSystem\Loan\obj\Debug\net6.0-windows\Loan.pdb
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Loan-Management-System\LoanManagementSystem\Loan\obj\Debug\net6.0-windows\Loan.genruntimeconfig.cache
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Loan-Management-System\LoanManagementSystem\Loan\obj\Debug\net6.0-windows\ref\Loan.dll
